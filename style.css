@@ -1,0 +1,27 @@
+html {
+	background-image: url("img/bg.jpg");
+	background-size: cover;
+}
+
+@font-face {
+	font-family: the_font; /* set name */
+	src: url(font.ttf); /* url of the font */
+}
+
+hr {
+	color: lime;
+}
+
+.text {
+	color: lime;
+	font-family: the_font;
+}
+
+.box {
+	text-align: center;
+	width: 50%;
+	padding: 10px;
+	margin: auto;
+	margin-top: 10px;
+	background-color: black;
+}
