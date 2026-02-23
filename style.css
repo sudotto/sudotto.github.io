@@ -1,27 +1,40 @@
 html {
-	background-image: url("img/bg.jpg");
-	background-size: cover;
+	background-color: black;
+	color: white;
+	font-family: monospace;
+	font-size: 15px;
+	cursor: none;
 }
 
 @font-face {
-	font-family: the_font; /* set name */
+	font-family: terminal; /* set name */
 	src: url(font.ttf); /* url of the font */
 }
 
-hr {
-	color: lime;
+a {
+	color: rgb(0,255,255);
+	text-decoration: none;
 }
 
-.text {
-	color: lime;
-	font-family: the_font;
+.head {
+	font-size: 50px;
+	margin: 0;
+}
+
+.subhead {
+	font-size: 30px;
+}
+
+.banner {
+	margin: 0;
+	width: 100%;
 }
 
 .box {
-	text-align: center;
-	width: 50%;
+	background-color: black;
+	border: 2px solid white;
+	width: 45%;
 	padding: 10px;
 	margin: auto;
 	margin-top: 10px;
-	background-color: black;
 }
