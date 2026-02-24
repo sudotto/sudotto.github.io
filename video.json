@@ -1,0 +1,107 @@
+let data = '{' +
+	'"list" : [' +
+		'{' +
+			'"query": "keyboard",' +
+			'"title": "I Made A Keyboard Driver | RosaOS #1", ' +
+			'"src": "video/keyboard.mp4",' +
+			'"thumb": "thumb/keyboard.jpg"' +
+		'},' +
+		'{' +
+			'"query": "comment",' +
+			'"title": "This Comment Fixed My OSDev Project | RosaOS #2", ' +
+			'"src": "video/comment.mp4",' +
+			'"thumb": "thumb/comment.jpg"' +
+		'},' +
+		'{' +
+			'"query": "gdt",' +
+			'"title": "I Wrote A GDT | RosaOS #3", ' +
+			'"src": "video/gdt.mp4",' +
+			'"thumb": "thumb/gdt.jpg"' +
+		'},' +
+		'{' +
+			'"query": "calc",' +
+			'"title": "A Totally Normal Calculator With No Funny Features", ' +
+			'"src": "video/calc.mp4",' +
+			'"thumb": "thumb/calc.jpg"' +
+		'},' +
+		'{' +
+			'"query": "ps3",' +
+			'"title": "A Text Editor You Control With A PS3 Controller (and a thermostat)", ' +
+			'"src": "video/ps3.mp4",' +
+			'"thumb": "thumb/ps3.jpg"' +
+		'},' +
+		'{' +
+			'"query": "idea",' +
+			'"title": "Making A Video Idea Generator But With The Worst Naming Scheme", ' +
+			'"src": "video/idea.mp4",' +
+			'"thumb": "thumb/idea.jpg"' +
+		'},' +
+		'{' +
+			'"query": "clock",' +
+			'"title": "Online Clock Stores Descent Into Madness", ' +
+			'"src": "video/clock.mp4",' +
+			'"thumb": "thumb/clock.jpg"' +
+		'},' +
+		'{' +
+			'"query": "old",' +
+			'"title": "An Old Video", ' +
+			'"src": "video/old.mp4",' +
+			'"thumb": "thumb/old.jpg"' +
+		'},' +
+		'{' +
+			'"query": "hike",' +
+			'"title": "Programmer Goes Outside", ' +
+			'"src": "video/hike.mp4",' +
+			'"thumb": "thumb/hike.jpg"' +
+		'},' +
+		'{' +
+			'"query": "terminal",' +
+			'"title": "I Made A Terminal | RosaOS #4", ' +
+			'"src": "video/terminal.mp4",' +
+			'"thumb": "thumb/terminal.jpg"' +
+		'},' +
+		'{' +
+			'"query": "omen",' +
+			'"title": "Finding Vaguely Ominous Objects In The Woods", ' +
+			'"src": "video/omen.mp4",' +
+			'"thumb": "thumb/omen.jpg"' +
+		'},' +
+		'{' +
+			'"query": "disk",' +
+			'"title": "Making The Harddrive Work | RosaOS #5", ' +
+			'"src": "video/disk.mp4",' +
+			'"thumb": "thumb/disk.jpg"' +
+		'},' +
+		'{' +
+			'"query": "wiz1",' +
+			'"title": "Making The Game I Wanted To Make As A Kid | WizTXT #1", ' +
+			'"src": "video/wiz1.mp4",' +
+			'"thumb": "thumb/wiz1.jpg"' +
+		'},' +
+		'{' +
+			'"query": "snake",' +
+			'"title": "Turning Snake Into A (Bad) Horror Game", ' +
+			'"src": "video/snake.mp4",' +
+			'"thumb": "thumb/snake.jpg"' +
+		'},' +
+		'{' +
+			'"query": "fix",' +
+			'"title": "Fixing Random Crap :) | RosaOS 7", ' +
+			'"src": "video/fix.mp4",' +
+			'"thumb": "thumb/fix.jpg"' +
+		'},' +
+		'{' +
+			'"query": "color",' +
+			'"title": "Lighting This B%tch Up Like A Christmas Tree | RosaOS #7", ' +
+			'"src": "video/color.mp4",' +
+			'"thumb": "thumb/color.jpg"' +
+		'},' +
+		'{' +
+			'"query": "wiz2",' +
+			'"title": "Adding Enemies With Zero Bugs Whatsoever | WizTXT #2", ' +
+			'"src": "video/wiz2.mp4",' +
+			'"thumb": "thumb/snake.jpg"' +
+		'}' +
+	']' +
+'}';
+
